@@ -1,4 +1,4 @@
-# 🚗 Student Exam Performance Prediction 
+# 📄✏ Student Exam Performance Prediction 
 This project aims to solve the problem of Classes in School of predicting the outcome of students in the Final exams. Using Sklearn's supervised machine learning techniques. It is a regression problem and predictions are carried out on dataset of classroom students with their bio-data with reading and writing score to predict the Maths score of a particular student. Several regression techniques have been studied, including XGboost and Random forests of decision trees are used in the Project.
 
 For Detailed EDA and Feature engineering Check out notebook directory 
@@ -73,7 +73,7 @@ From these above models after hyperparameter optimization we selected Top two mo
 
 **Custom Logger and Exceptions** are used in the Project for better debugging purposes.
 
-## Application Screenshots
+## 📷 Application Screenshots
 ### **This is the screenshot of the final Webpage which was done using the Flask**
 ![webpage](static/indexpage.png)
 
